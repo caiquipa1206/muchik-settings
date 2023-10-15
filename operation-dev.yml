@@ -1,0 +1,2 @@
+connectionStrings:
+  muchikConnection: Server=localhost; Database=db_invoice; Port=5432; Uid=root; Pwd=NewHorizons_2023@

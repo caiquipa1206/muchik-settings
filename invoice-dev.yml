@@ -1,0 +1,2 @@
+connectionStrings:
+  muchikConnection: Server=localhost; Database=db_invoice; Port=5432; Uid=postgres; Pwd=NewHorizons_2023@
