@@ -1,2 +1,2 @@
 connectionStrings:
-  muchikConnection: Server=localhost; Database=db_invoice; Port=5432; Uid=root; Pwd=NewHorizons_2023@
+  muchikConnection: Server=local-mysql; Database=db_invoice; Port=5432; Uid=root; Pwd=NewHorizons_2023@
