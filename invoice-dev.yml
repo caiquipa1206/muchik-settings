@@ -1,2 +1,2 @@
 connectionStrings:
-  muchikConnection: Server=local-mssql; Database=db_invoice; Port=5432; Uid=postgres; Pwd=NewHorizons_2023@
+  muchikConnection: Server=local-postgres; Database=db_invoice; Port=5432; Uid=postgres; Pwd=NewHorizons_2023@
