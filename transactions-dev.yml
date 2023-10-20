@@ -2,3 +2,7 @@ TransacctionsStoreDatabase:
   ConnectionString: mongodb://root:NewHorizons_2023@localhost:27017/?authMechanism=DEFAULT
   DatabaseName: db_transaction
   TransactionCollectionName: transaction
+rabbitMqSettings:
+  hostName: rabbitmq-muchik
+  username: usr_admin
+  password: NewHorizons_2023
