@@ -1,2 +1,6 @@
 connectionStrings:
   muchikConnection: Server=local-postgres; Database=db_invoice; Port=5432; Uid=postgres; Pwd=NewHorizons_2023@
+rabbitMqSettings:
+  hostName: rabbitmq-muchik
+  username: usr_admin
+  password: NewHorizons_2023
